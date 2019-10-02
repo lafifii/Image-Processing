@@ -42,3 +42,11 @@ def subdivision(image):
   
   return out.astype('uint8')
 
+imc = cv2.imread("contrast2.jpeg", 0)
+plt.imshow(imc, cmap = "gray") 
+plt.show()
+
+imsub = subdivision(imc)
+plt.imshow(imsub, cmap = "gray") 
+plt.show()
+
