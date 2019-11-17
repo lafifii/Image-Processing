@@ -5,7 +5,7 @@ Algorithms on Image Processing
 2. Filtering and Padding
 3. Fast Fourier Transform
 4. OCR (Optical Character recognition) using tesseract by google
-5. Otsu Methoc: Mathematical morphology
-6. Image Processing on Color Images: Histogras, Color Model: HSV, RGB.
-5. Predicting Numbers: Machine Learning
+5. Otsu Method: Mathematical morphology
+6. Image Processing on Color Images: Histograms, Color Model: HSV, RGB.
+5. Prediction of Numbers
 
